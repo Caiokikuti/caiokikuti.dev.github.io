@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/Caio Kikuti/Desktop/exampleSite",
+	"sourceRoot": "/mnt/c/Users/Caio Kikuti/Desktop/exampleSite",
 	"sources": [
 		"stdin"
 	],
